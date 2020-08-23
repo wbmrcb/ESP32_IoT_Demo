@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#minMagnitude {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#freeFallAlert {
+    font-size: 2em;
+    font-weight: bold;
+}
